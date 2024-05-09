@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087422171561",
+    "project_id": "faweran-8e18f",
+    "storage_bucket": "faweran-8e18f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087422171561:android:bc354745197fad7c4e1cb8",
+        "android_client_info": {
+          "package_name": "com.example.faweran"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrJuF-fIpr28R7H-VXpsgQNcQuNJUVP1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
